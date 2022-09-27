@@ -14,7 +14,6 @@
 </div>
   <br/>
   
-  
 Studying Programming and Information Systems Technologies at IEFP :school: <br/>
 
  <br/> :computer: &nbsp; Studying HTML, CSS, JavaScript, NodeJS, SQL
@@ -22,18 +21,5 @@ Studying Programming and Information Systems Technologies at IEFP :school: <br/>
  <br/> :email: &nbsp; Contact me:
  <br/>
   
-  
 ![Gmail Badge](https://img.shields.io/badge/-nicolaswgl99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolaswgl99@gmail.com)
 <br/>
-
-
-
-
-
-
-
-<!-- ### Hi there 👋
-
-
-- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, NodeJS
-- 📫 How to reach me: nicolaswgl99@gmail.com -->
