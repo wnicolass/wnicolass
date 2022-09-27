@@ -17,7 +17,6 @@
   
 Studying Programming and Information Systems Technologies at IEFP :school: <br/>
 
-  
  <br/> :computer: &nbsp; Studying HTML, CSS, JavaScript, NodeJS, SQL
  <br/> 💬  &nbsp; About me: I enjoy technologies, games and learning
  <br/> :email: &nbsp; Contact me:
