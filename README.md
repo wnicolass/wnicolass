@@ -16,12 +16,6 @@
 </div>
 </a>
 
-<p align="center">
-  <img src="https://64.media.tumblr.com/c68b1b5a22c8cc8d30b7b3116e5a96a8/tumblr_p4m0tqlKnA1wktao5o1_250.gifv" alt="Gon" />
-</p>
-
-##
-
  <br/> :computer: &nbsp; Studying Modern JavaScript, NodeJS and MySQL
  <br/> 💬  &nbsp; About me: I enjoy technologies, games and learning
  <br/>
