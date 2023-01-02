@@ -8,7 +8,7 @@
 
 <br/>
 
-## Currently Studying 👩🏻‍💻
+## Currently studying 👩🏻‍💻
 <div>
 <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100">
 <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" width="110">
@@ -23,7 +23,7 @@
 <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" width="100">
 </div>
  
-## :email: &nbsp; Contact me:
+## Contact me :email:
 
 <div>
   <a href = "mailto:nicolaswgl99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&color=red&logo=gmail&logoColor=white" target="_blank"></a>
