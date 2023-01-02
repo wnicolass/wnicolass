@@ -16,7 +16,7 @@
 </div>
 </a>
 
- <br/> :computer: &nbsp; Studying Modern JavaScript, NodeJS and MySQL
+ <br/> :computer: &nbsp; Studying NodeJS and MongoDB
  <br/> 💬  &nbsp; About me: I enjoy technologies, games and learning
  <br/>
  
