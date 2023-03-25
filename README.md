@@ -12,7 +12,6 @@
 <div>
 <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100">
 <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" width="110">
-<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100">
 </div>
 
 ## My knowledge :nerd_face:
