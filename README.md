@@ -28,4 +28,5 @@
 
 <div>
   <a href = "mailto:nicolaswgl99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&color=red&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/nicolas-lima-94b643251/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&color=blue&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
