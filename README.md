@@ -10,22 +10,20 @@
 
 ## Currently learning 👩🏻‍💻
 <div>
-<img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100">
-<img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" width="110">
-<img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="100">
+<img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="60">
+<img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" width="60">
+<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="60">
 </div>
 
-## My knowledge :nerd_face:
+## Experience with :nerd_face:
 <div>
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100">
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100">
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="150">
-<img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" width="100">
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60">
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60">
+<img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" width="60">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60">
 </div>
- 
+  
 ## Contact me :email:
-
 <div>
   <a href = "mailto:nicolaswgl99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&color=red&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/nicolas-lima-94b643251/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&color=blue&logo=linkedin&logoColor=white" target="_blank"></a>
