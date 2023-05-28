@@ -8,22 +8,23 @@
 
 <br/>
 
-## Currently learning 👩🏻‍💻
+## Learning
 <div>
-<img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="60">
-<img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" width="60">
-<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="60">
+<img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+<img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
 
-## Experience with :nerd_face:
+## Some experience
 <div>
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60">
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60">
-<img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" width="60">
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60">
+<img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
 </div>
   
-## Contact me :email:
+## Contact me
 <div>
   <a href = "mailto:nicolaswgl99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&color=red&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/nicolas-lima-94b643251/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&color=blue&logo=linkedin&logoColor=white" target="_blank"></a>
