@@ -1,31 +1,26 @@
-# Nicolas Lima
+<img src="https://giffiles.alphacoders.com/146/14616.gif" width="100%" height="250"/>
 
-<div align="center">
-  <a href="https://github.com/wnicolass">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wnicolass&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnicolass&layout=compact&langs_count=7&theme=nord"/>
-</div>
+<table align="left">
+<tbody>
+<tr>
+<td><img align="center" alt="mongodb" height="46" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></td>
+<td><img align="center" alt="mongodb" height="46" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></td>
+<td><img align="center" alt="mongodb" height="46" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></td>
+</tr>
+<tr>
+<td><img align="center" alt="mongodb" height="46" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></td>
+<td><img align="center" alt="mongodb" height="46" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></td>
+<td><img align="center" alt="mongodb" height="46" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></td>
+</tr>
+<tr>
+<td><img align="center" alt="mongodb" height="46" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></td>
+<td><img align="center" alt="mongodb" height="46" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"></td>
+<td><img align="center" alt="mongodb" height="46" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></td>
+</tr>
+</tbody>
+</table>
 
-<br/>
-
-## Learning
-<div>
-<img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-<img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-</div>
-
-## Some experience
-<div>
-<img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
-</div>
-  
-## Contact me
-<div>
-  <a href = "mailto:nicolaswgl99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&color=red&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/nicolas-lima-94b643251/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&color=blue&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="right">
+<img height="180em" width="450" src="https://github-readme-stats.vercel.app/api?username=wnicolass&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height="180em" width="343" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnicolass&theme=midnight-purple&layout=compact&langs_count=7"/>
 </div>
