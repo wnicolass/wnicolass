@@ -1,6 +1,6 @@
 <img src="https://giffiles.alphacoders.com/146/14616.gif" width="100%" height="250"/>
 
-<h2 align="center">Techs 💯</h2>
+<!-- <h2 align="center">Techs 💯</h2>
 <table align="center">
 <tbody>
 <tr>
@@ -20,4 +20,4 @@
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wnicolass&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnicolass&theme=midnight-purple&layout=compact&langs_count=7"/>
-</div>
+</div> --> 
